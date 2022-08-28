@@ -16,6 +16,5 @@
 
 .prettierignore
 .vscode
-index.html
 README.md
 style-guide.md
